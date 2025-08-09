@@ -1,0 +1,21 @@
+{
+  "id": "kotone",
+  "name": "琴音",
+  "discord": "kotone_li",
+  "avatar": "https://cdn.discordapp.com/avatars/1023293006859747368/bded9f988a7a3ba21557e03dfeeaa72a.webp?size=1024",
+  "bio": "Hi",
+  "projects": [
+    {
+      "icon": "",
+      "title": "Pulsar API (Ts page)",
+      "description": "Just a normal API lol",
+      "url": "https://pulsar.usk.lol"
+    },
+    {
+      "icon": "",
+      "title": "DEX",
+      "description": "Bypass & Moderation Bot",
+      "url": ""
+    }
+  ]
+}
